@@ -1,0 +1,21 @@
+{
+  "name": "nyt-react",
+  "version": "1.0.0",
+  "description": "NYTimes Homework",
+  "scripts": {
+    "start": "node server",
+  },
+  "cacheDirectories": [
+    "node_modules",
+  ],
+  "dependencies": {
+    "express": "^4.16.2",
+  },
+  
+  "keywords": [
+    "node",
+    "heroku",
+    "create-react-app",
+    "react"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "NY Times homework ",
+  "description": "using react",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "github.com/nodejs"
+    }
+  ]
+}
