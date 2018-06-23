@@ -10,7 +10,7 @@
   ],
   "buildpacks": [
     {
-      "url": "github.com/nodejs"
+      "url": "https://github.com/cbuckley88/nytreact-homework"
     }
   ]
 }
